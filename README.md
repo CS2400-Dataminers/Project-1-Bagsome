@@ -7,6 +7,6 @@ Roles & Contributions:
 AmrEdlessouky Role: ResizeableArrayBag.java 
 guzmanthegreat Role: LinkedBag.java
 
-GitHub Repo: [https://github.com/CS2400-Project-1-Bagsome/Project-1.git](https://github.com/CS2400-Dataminers/Project-1-Bagsome)
+GitHub Repo: (https://github.com/CS2400-Dataminers/Project-1-Bagsome)
 
 Video: https://www.youtube.com/watch?v=Rn5gAp5i2Lc
