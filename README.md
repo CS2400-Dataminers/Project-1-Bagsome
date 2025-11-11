@@ -1,5 +1,5 @@
 # Project
-Full Names: Amr Eldessouky, Josh Guzman
+Full Names: Josh Guzman, Amr Eldessouky
 CPP email: aeldessouky@cpp.edu, joshguzman@cpp.edu
 GitHub usernames: guzmanthegreat, AmrEldessouky
 
